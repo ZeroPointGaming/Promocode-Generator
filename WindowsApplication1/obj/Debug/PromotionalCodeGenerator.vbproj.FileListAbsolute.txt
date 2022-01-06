@@ -1,0 +1,11 @@
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PromoGenerator.exe.config
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromoGenerator.exe
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromoGenerator.xml
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromoGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PromoGenerator.exe
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PromoGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\PromoGenerator.xml
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromotionalCodeGenerator.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromoGenerator.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromoGenerator.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PromotionalCodeGenerator.vbproj.GenerateResource.Cache

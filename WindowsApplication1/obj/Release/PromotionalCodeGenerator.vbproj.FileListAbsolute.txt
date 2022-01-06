@@ -1,0 +1,10 @@
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\PromoGenerator.exe.config
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\PromoGenerator.exe
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\PromoGenerator.pdb
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\PromoGenerator.xml
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromoGenerator.Form1.resources
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromoGenerator.Resources.resources
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromotionalCodeGenerator.vbproj.GenerateResource.Cache
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromoGenerator.exe
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromoGenerator.xml
+c:\users\redaj\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PromoGenerator.pdb
